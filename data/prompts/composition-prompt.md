@@ -4,9 +4,9 @@ Update this markdown document with the new cybersecurity evaluation information.
 Maintain the document's structure while integrating the new information appropriately.
 
 Original markdown:
-{0}
+{original_md}
 
 New information to integrate:
-{1}
+{new_info}
 
 Return the updated markdown content.

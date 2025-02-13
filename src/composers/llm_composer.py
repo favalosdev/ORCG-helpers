@@ -1,5 +1,6 @@
 import json
 import google.generativeai as genai
+from typing import Dict
 
 from src.config.settings import COMPOSITION_PROMPT_PATH
 from src.utils.safety_context import SafetyContext
